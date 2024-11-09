@@ -1,4 +1,4 @@
-# FSE-paper
+# Towards Better Graph Neural Network-based Fault Localization Through Enhanced Code Representation
 
 This is the public repository for FSE Submission.
 
